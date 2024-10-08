@@ -23,3 +23,8 @@ Los objetivos específicos incluyen:
 - **Matplotlib**: Herramienta de visualización de datos que se utiliza para crear gráficos básicos, incluyendo gráficos de barras y líneas.
 - **Seaborn**: Biblioteca de visualización de datos basada en Matplotlib que proporciona gráficos estadísticos más atractivos y estilizados.
 - **Jupyter Notebook**: Entorno interactivo para escribir y ejecutar código Python, ideal para documentar el proceso de análisis y para la exploración de datos.
+
+## Contacto
+- Luna Outerelo Fernández.
+- Email: lunaouterelo9@gmail.com
+- Linkedin: https://www.linkedin.com/in/luna-outerelo-4414a0192/
